@@ -4,7 +4,7 @@
 My name is Arda, I'm a passionate FOSS developer who loves Linux and stuff.
 - 🔭 Currently learning Android development.
 - 🌱 I translate FOSS projects in my spare time.
-- ➕ I also have a [porftolio](https://dybdeskarphet.github.io) if you want to know more about me.
+- ➕ I also have a [porftolio](https://kavakci.dev) if you want to know more about me.
 
 ## Languages and Tools:
 <div>
