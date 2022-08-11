@@ -9,8 +9,8 @@ My name is Arda, I'm a passionate FOSS developer who loves Linux and stuff.
 ## Languages and Tools:
 <div>
   <img alt="android" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
-  <img alt="java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img alt="kotlin" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
+  <img alt="java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img alt="js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img alt="bash" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
 </div>
