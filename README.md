@@ -1,5 +1,5 @@
 # Hello there,
-<img align="right" width="470" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
+<img align="right" width="400" alt="Cateloper" src="img/cat.gif" />
 
 My name is Arda, I'm a passionate FOSS developer who loves Linux and stuff.
 - 🔭 Currently learning Android development.
@@ -8,11 +8,11 @@ My name is Arda, I'm a passionate FOSS developer who loves Linux and stuff.
 
 ## Languages and Tools:
 <div>
-  <img alt="android" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
-  <img alt="kotlin" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
-  <img alt="java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img alt="js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img alt="bash" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
+  <img alt="android" height="50" width="60" src="img/android-plain.svg">
+  <img alt="kotlin" height="50" width="60" src="img/kotlin-plain.svg">
+  <img alt="java" height="50" width="60" src="img/java-plain.svg">
+  <img alt="js" height="50" width="60" src="img/javascript-original.svg">
+  <img alt="bash" height="50" width="60" src="img/bash-plain.svg">
 </div>
 
 ## GitHub Stats for those who love stats
