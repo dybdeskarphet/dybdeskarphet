@@ -8,7 +8,7 @@ My name is Arda, I'm a passionate FOSS developer who loves Linux and stuff.
 
 ## Languages and Tools:
 <div>
-  <img alt="android" height="50" width="60" src="img/android-plain.svg">
+  <img title="Android" alt="android" height="50" width="60" src="img/android-plain.svg">
   <img alt="kotlin" height="50" width="60" src="img/kotlin-plain.svg">
   <img alt="java" height="50" width="60" src="img/java-plain.svg">
   <img alt="js" height="50" width="60" src="img/javascript-original.svg">
