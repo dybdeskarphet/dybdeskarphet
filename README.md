@@ -21,3 +21,5 @@ My name is Arda, I'm a passionate FOSS developer who loves Linux and stuff.
   <img title="Most Used Languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dybdeskarphet&layout=compact&theme=midnight-purple">
 </div>
 
+## Music I listen to
+<a href="https://open.spotify.com/user/theauctus?si=aa67e90ae3664d53"><img title="Spotify" height="300" src="https://spotify-recently-played-readme.vercel.app/api?user=theauctus"></a>
