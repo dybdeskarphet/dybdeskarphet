@@ -7,6 +7,8 @@
 - [ ] Kentpark furniture
 - [ ] Atatürk statute
 - [ ] Mosque
+- [ ] Koyunbaba Köprüsü
+- [ ] Koyunbaba tomb
 - [x] Köprü
 - [x] Şamlı Kulesi
 
@@ -18,6 +20,7 @@
 ## Villagers
 
 ### Librarian
+
 - Efficiency 4
 - Feather Falling
 - Fortune 3
