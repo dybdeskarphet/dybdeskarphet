@@ -16,10 +16,8 @@ My name is Arda, I'm a passionate FOSS developer who loves Linux and stuff.
   <img title="Bash" alt="bash" height="50" width="60" src="img/bash-plain.svg">
 </div>
 
-<!--
-## GitHub Stats for those who love stats
+## Stats
 <div>
   <img title="GitHub Stats" height="170" src="https://github-readme-stats.vercel.app/api?username=dybdeskarphet&show_icons=true&theme=gruvbox_light">
-  <img title="Most Used Languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dybdeskarphet&layout=compact&theme=gruvbox_light">
+  <img title="Most Used Languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dybdeskarphet&layout=compact&theme=gruvbox_light&exclude_repo=dotfiles">
 </div>
--->
