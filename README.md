@@ -1,9 +1,10 @@
 # Hello there,
 <img title="Cat coding rabidly" align="right" width="400" alt="Cateloper" src="img/cat.gif" />
 
-My name is Arda, I'm a passionate FOSS developer who loves Linux and stuff.
+I'm Ahmet Arda Kavakcı, an Android developer skilled in Kotlin, Java, React Native, and Jetpack Compose, with a passion for crafting exceptional mobile experiences and contributing to FOSS projects. I'm also [into collage art](https://www.instagram.com/forvirringssirkel/).
+
 - 🔭 Currently learning React Native.
-- 🌱 I translate FOSS projects in my spare time.
+- 🌱 I write poetry in my spare time.
 - 🌐 I also have a [porftolio website](https://kavakci.dev) if you want to know more about me.
 
 ## Languages and Tools:
