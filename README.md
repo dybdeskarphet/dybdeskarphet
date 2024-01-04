@@ -1,24 +1,55 @@
-# Hello there,
-<img title="Cat coding rabidly" align="right" width="400" alt="Cateloper" src="img/cat.gif" />
+<h1 align="left">Hey 👋</h1>
 
-I'm Ahmet Arda Kavakcı, an Android developer skilled in Kotlin, Java, React Native, and Jetpack Compose, with a passion for crafting exceptional mobile experiences and contributing to FOSS projects. I'm also [into collage art](https://www.instagram.com/forvirringssirkel/).
+<img align="right" height="200" src="img/cat.gif"  />
 
-- 🔭 Currently learning React Native.
-- 🌱 I write poetry in my spare time.
-- 🌐 I also have a [porftolio website](https://kavakci.dev) if you want to know more about me.
+<p align="left">I'm Ahmet Arda Kavakcı, an Android developer skilled in Kotlin, Java, React Native, and Jetpack Compose, with a passion for crafting exceptional mobile experiences and contributing to FOSS projects.</p>
 
-## Languages and Tools:
-<div>
-  <img title="React Native" alt="react-native" height="50" width="60" src="img/react-original.svg">
-  <img title="JavaScript" alt="js" height="50" width="60" src="img/javascript-original.svg">
-  <img title="Android" alt="android" height="50" width="60" src="img/android-plain.svg">
-  <img title="Java" alt="java" height="50" width="60" src="img/java-plain.svg">
-  <img title="Kotlin" alt="kotlin" height="50" width="60" src="img/kotlin-plain.svg">
-  <img title="Bash" alt="bash" height="50" width="60" src="img/bash-plain.svg">
+<h2 align="left">About me</h2>
+
+<p align="left">✨ I'm really into cross-platform programming<br>📚 I'm currently learning data science<br>🌱 I write poetry in my spare time</p>
+
+<h2 align="left">I code with</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
-## Stats
-<div>
-  <img title="GitHub Stats" height="170" src="https://github-readme-stats.vercel.app/api?username=dybdeskarphet&show_icons=true&theme=gruvbox_light">
-  <img title="Most Used Languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dybdeskarphet&layout=compact&theme=gruvbox_light&exclude_repo=dotfiles">
+<h2 align="left">Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dybdeskarphet&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dybdeskarphet&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=dybdeskarphet&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
