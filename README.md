@@ -1,12 +1,25 @@
 <h1 align="left">Hey 👋</h1>
 
-<img align="right" height="200" src="img/cat.gif"  />
+<img align="right" height="150" src="img/cat.gif"  />
 
-<p align="left">I'm Ahmet Arda Kavakcı, an Android developer skilled in Kotlin, Java, React Native, and Jetpack Compose, with a passion for crafting exceptional mobile experiences and contributing to FOSS projects.</p>
+<p align="left">
+    I'm Ahmet Arda Kavakcı, a React Native Developer passionate about building intuitive, 
+    cross-platform applications. My expertise extends to data science and optimizing Linux 
+    environments with Bash scripts.
+</p>
 
 <h2 align="left">About me</h2>
+<ul>
+    <li>👨‍💻 Developing innovative React Native applications.</li>
+    <li>📊 Immersing myself in the fascinating world of data science.</li>
+    <li>🌐 Contributing to and translating open source projects into Turkish.</li>
+</ul>
 
-<p align="left">✨ I'm really into cross-platform programming<br>📚 I'm currently learning data science<br>🌱 I write poetry in my spare time</p>
+<h3>My goal is</h3>
+<p>
+    To develop applications and programs that integrate seamlessly into everyday life, enhancing 
+    daily tasks for users worldwide.
+</p>
 
 <h2 align="left">I code with</h2>
 
