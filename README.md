@@ -5,7 +5,7 @@
 <p align="left">
     I'm Ahmet Arda Kavakcı, a React Native Developer passionate about building intuitive, 
     cross-platform applications. My expertise extends to data science and optimizing Linux 
-    environments with Bash scripts.
+    environments with shell scripts.
 </p>
 
 <h2 align="left">About me</h2>
