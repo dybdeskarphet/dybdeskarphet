@@ -1,18 +1,8 @@
-Account age: **6** years
+### Hey!
 
-Pushed **1030** commits
+I'm **Arda**, a React Native developer with a passion for building cross-platform mobile applications. Currently, I'm expanding my skill set by learning Rust, focusing on systems programming and performance optimization.
 
-Opened **55** issues
-
-Submitted **45** pull requests
-
-Reviewed **0** pull requests
-
-Received **166** stars
-
-Own **22** repositories
-
-Contributed to **5** public repositories
+Ever since I joined GitHub **6** years ago, I pushed **1031** commits, opened **55** issues, submitted **45** pull requests, received **166** stars across **22** personal projects, and contributed to **5** public repositories.
 
 Top 8 most used languages across your repositories:
 
