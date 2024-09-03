@@ -1,18 +1,8 @@
-Account age: **{{ ACCOUNT_AGE }}** years
+### Hey!
 
-Pushed **{{ COMMITS }}** commits
+I'm **Arda**, a React Native developer with a passion for building cross-platform mobile applications. Currently, I'm expanding my skill set by learning Rust, focusing on systems programming and performance optimization.
 
-Opened **{{ ISSUES }}** issues
-
-Submitted **{{ PULL_REQUESTS }}** pull requests
-
-Reviewed **{{ CODE_REVIEWS }}** pull requests
-
-Received **{{ STARS }}** stars
-
-Own **{{ REPOSITORIES }}** repositories
-
-Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
+Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
 Top 8 most used languages across your repositories:
 
