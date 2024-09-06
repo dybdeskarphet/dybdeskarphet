@@ -2,7 +2,7 @@
 
 I'm **Arda**, a React Native developer with a passion for building cross-platform mobile applications. Currently, I'm expanding my skill set by learning Rust, focusing on systems programming and performance optimization.
 
-Ever since I joined GitHub **6** years ago, I pushed **969** commits, opened **55** issues, submitted **45** pull requests, received **162** stars across **20** personal projects, and contributed to **5** public repositories.
+Ever since I joined GitHub **6** years ago, I pushed **970** commits, opened **55** issues, submitted **45** pull requests, received **162** stars across **20** personal projects, and contributed to **5** public repositories.
 
 Top 10 most used languages across my repositories:
 
