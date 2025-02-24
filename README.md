@@ -1,7 +1,9 @@
 ### Hey!
 
-I'm **Arda**, a React Native developer with a passion for building cross-platform mobile applications. Currently, I'm expanding my skill set by learning Rust, focusing on systems programming and performance optimization.
+[![LeetCode user dybdeskarphet](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=151515&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdybdeskarphet&logo=leetcode&logoColor=yellow)](https://leetcode.com/dybdeskarphet/)
 
-Ever since I joined GitHub **6** years ago, I pushed **1404** commits, opened **57** issues, submitted **46** pull requests, received **207** stars across **29** personal projects, and contributed to **5** public repositories.
+I'm **Arda**, a developer currently focusing on **backend development** with **Express.js** and **MongoDB**, working on **API design and database management**. I have experience with **React Native** and enjoy building cross-platform applications, and I also like **systems programming with Rust**, exploring performance optimization and low-level development. I love overengineering projects, optimizing for speed, and tinkering with Linux and old tech.
 
-<img height=160 align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dybdeskarphet&layout=compact&theme=rose&exclude_repo=dotfiles,dybdeskarphet.github.io,xcorners,ranger_devicons"/> <img height=160 align='center' src='https://github-readme-stats.vercel.app/api?username=dybdeskarphet&show_icons=true&theme=rose'/>
+Ever since I joined GitHub **6** years ago, I pushed **1406** commits, opened **57** issues, submitted **46** pull requests, received **207** stars across **29** personal projects, and contributed to **5** public repositories.
+
+<img height=150 align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dybdeskarphet&layout=compact&theme=dark&hide_border=true&exclude_repo=dotfiles,dybdeskarphet.github.io,xcorners,ranger_devicons"/> <img height=150 align='center' src='https://github-readme-stats.vercel.app/api?username=dybdeskarphet&show_icons=true&theme=dark&hide_border=true'/>
