@@ -4,6 +4,6 @@
 
 I'm **Arda**, a developer currently focusing on **backend development** with **Express.js** and **MongoDB**, working on **API design and database management**. I have experience with **React Native** and enjoy building cross-platform applications, and I also like **systems programming with Rust**, exploring performance optimization and low-level development. I love overengineering projects, optimizing for speed, and tinkering with Linux and old tech.
 
-Ever since I joined GitHub **6** years ago, I pushed **1663** commits, opened **23** issues, submitted **35** pull requests, received **233** stars across **32** personal projects, and contributed to **9** public repositories.
+Ever since I joined GitHub **6** years ago, I pushed **1663** commits, opened **23** issues, submitted **35** pull requests, received **234** stars across **32** personal projects, and contributed to **9** public repositories.
 
 <img height=150 align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dybdeskarphet&layout=compact&theme=dark&hide_border=true&exclude_repo=dotfiles,dybdeskarphet.github.io,xcorners,ranger_devicons"/> <img height=150 align='center' src='https://github-readme-stats.vercel.app/api?username=dybdeskarphet&show_icons=true&theme=dark&hide_border=true'/>
