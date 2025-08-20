@@ -11,10 +11,10 @@ I'm **Arda**. I like working with backend systems, writing pretty much anything 
 Most of my projects fall into two camps: things that make my daily dev life or system smoother, and things that just sound cool (or end up a little overengineered). Since I’m still a uni student, all of this happens in my free time - which probably explains the chaos :)
 
 
-Since I joined GitHub **{{ ACCOUNT\_AGE }}** years ago, I’ve:
+Since I joined GitHub **7** years ago, I’ve:
 
-* pushed **1683** commits
+* pushed **1685** commits
 * opened **23** issues
-* sent **{{ PULL\_REQUESTS }}** pull requests
+* sent **35** pull requests
 * earned **249** stars across **33** projects
-* contributed to **{{ REPOSITORIES\_CONTRIBUTED\_TO }}** repos
+* contributed to **9** repos
