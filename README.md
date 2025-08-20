@@ -1,9 +1,20 @@
 ### Hey!
 
-[![LeetCode user dybdeskarphet](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=151515&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdybdeskarphet&logo=leetcode&logoColor=yellow)](https://leetcode.com/dybdeskarphet/)
+![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B176.4%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B16.4%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B13.6%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B13.4%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B110%25)
 
-I'm **Arda**, a developer currently focusing on **backend development** with **Express.js** and **MongoDB**, working on **API design and database management**. I have experience with **React Native** and enjoy building cross-platform applications, and I also like **systems programming with Rust**, exploring performance optimization and low-level development. I love overengineering projects, optimizing for speed, and tinkering with Linux and old tech.
+I'm **Arda**. I like working with backend systems, writing pretty much anything in Rust or TypeScript, and occasionally experimenting with frontend.
 
-Ever since I joined GitHub **7** years ago, I pushed **1677** commits, opened **23** issues, submitted **35** pull requests, received **249** stars across **33** personal projects, and contributed to **9** public repositories.
+Most of my projects fall into two camps: things that make my daily dev life or system smoother, and things that just sound cool (or end up a little overengineered). Since I’m still a uni student, all of this happens in my free time - which probably explains the chaos :)
 
-<img height=150 align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dybdeskarphet&layout=compact&theme=dark&hide_border=true&exclude_repo=dotfiles,dybdeskarphet.github.io,xcorners,ranger_devicons"/> <img height=150 align='center' src='https://github-readme-stats.vercel.app/api?username=dybdeskarphet&show_icons=true&theme=dark&hide_border=true'/>
+
+Since I joined GitHub **{{ ACCOUNT\_AGE }}** years ago, I’ve:
+
+* pushed **1683** commits
+* opened **23** issues
+* sent **{{ PULL\_REQUESTS }}** pull requests
+* earned **249** stars across **33** projects
+* contributed to **{{ REPOSITORIES\_CONTRIBUTED\_TO }}** repos
