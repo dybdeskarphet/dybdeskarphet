@@ -1,9 +1,18 @@
 ### Hey!
 
-[![LeetCode user dybdeskarphet](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=151515&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdybdeskarphet&logo=leetcode&logoColor=yellow)](https://leetcode.com/dybdeskarphet/)
+{{ LANGUAGE_TEMPLATE_START:max=5 }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+{{ LANGUAGE_TEMPLATE_END }}
 
-I'm **Arda**, a developer currently focusing on **backend development** with **Express.js** and **MongoDB**, working on **API design and database management**. I have experience with **React Native** and enjoy building cross-platform applications, and I also like **systems programming with Rust**, exploring performance optimization and low-level development. I love overengineering projects, optimizing for speed, and tinkering with Linux and old tech.
+I'm **Arda**. I like working with backend systems, writing pretty much anything in Rust or TypeScript, and occasionally experimenting with frontend.
 
-Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+Most of my projects fall into two camps: things that make my daily dev life or system smoother, and things that just sound cool (or end up a little overengineered). Since I’m still a uni student, all of this happens in my free time - which probably explains the chaos :)
 
-<img height=150 align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dybdeskarphet&layout=compact&theme=dark&hide_border=true&exclude_repo=dotfiles,dybdeskarphet.github.io,xcorners,ranger_devicons"/> <img height=150 align='center' src='https://github-readme-stats.vercel.app/api?username=dybdeskarphet&show_icons=true&theme=dark&hide_border=true'/>
+
+Since I joined GitHub **{{ ACCOUNT\_AGE }}** years ago, I’ve:
+
+* pushed **{{ COMMITS }}** commits
+* opened **{{ ISSUES }}** issues
+* sent **{{ PULL\_REQUESTS }}** pull requests
+* earned **{{ STARS }}** stars across **{{ REPOSITORIES }}** projects
+* contributed to **{{ REPOSITORIES\_CONTRIBUTED\_TO }}** repos
