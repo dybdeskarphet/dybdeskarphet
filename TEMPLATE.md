@@ -1,6 +1,6 @@
 ### Hey!
 
-[![LeetCode user dybdeskarphet](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=141318&color=c8bfff&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdybdeskarphet&logo=leetcode&logoColor=yellow)](https://leetcode.com/dybdeskarphet/) ![Current Project](https://img.shields.io/badge/currently-writing%20an%20os%20in%20rust-c8bfff?labelColor=141318&style=flat-square)
+[![LeetCode user dybdeskarphet](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=141318&color=c8bfff&label=solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdybdeskarphet&logo=leetcode&logoColor=yellow)](https://leetcode.com/dybdeskarphet/) ![Current Project](https://img.shields.io/badge/currently-writing%20an%20os%20in%20rust-c8bfff?labelColor=141318&style=flat-square)
 
 I'm **Arda**. I like working with backend systems, writing pretty much anything in Rust or TypeScript, and occasionally experimenting with frontend.
 
