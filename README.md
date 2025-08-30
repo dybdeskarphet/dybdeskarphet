@@ -6,6 +6,6 @@ I'm **Arda**. I like working with backend systems, writing pretty much anything 
 
 Most of my projects fall into two camps: things that make my daily dev life or system smoother, and things that just sound cool (or end up a little overengineered). Since I’m still a uni student, all of this happens in my free time - which probably explains the chaos :)
 
-Since I joined GitHub **7** years ago, I’ve pushed **1711** commits, opened **23** issues, sent **36** pull requests, earned **255** stars across **34** projects, contributed to **10** repos.
+Since I joined GitHub **7** years ago, I’ve pushed **1704** commits, opened **23** issues, sent **36** pull requests, earned **255** stars across **35** projects, contributed to **9** repos.
 
 <img height=150 align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dybdeskarphet&title_color=e5dff9&text_color=c9c5d0&bg_color=141318&layout=compact&hide_border=true&exclude_repo=dotfiles,dybdeskarphet.github.io,xcorners,ranger_devicons"/> <img height=150 align='center' src='https://github-readme-stats.vercel.app/api?username=dybdeskarphet&show_icons=true&title_color=e5dff9&text_color=c9c5d0&bg_color=141318&icon_color=c8bfff&hide_border=true'/>
