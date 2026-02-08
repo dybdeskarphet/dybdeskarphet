@@ -6,16 +6,16 @@ I'm **Arda**. I like working with backend systems, writing pretty much anything 
 
 Most of my projects fall into two camps: things that make my daily dev life or system smoother, and things that just sound cool (or end up a little overengineered). Since I’m still a uni student, all of this happens in my free time - which probably explains the chaos :)
 
-Since I joined GitHub **7** years ago, I’ve pushed **1969** commits, opened **27** issues, sent **40** pull requests, earned **349** stars across **38** projects, contributed to **11** repos.
+Since I joined GitHub **7** years ago, I’ve pushed **1976** commits, opened **27** issues, sent **40** pull requests, earned **349** stars across **38** projects, contributed to **11** repos.
 
-![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=Jupyter%20Notebook&labelColor=151311&color=d8c3ab&message=57.8%25)
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=TypeScript&labelColor=151311&color=d8c3ab&message=8.8%25)
-![Python](https://img.shields.io/static/v1?style=flat-square&label=Python&labelColor=151311&color=d8c3ab&message=6.2%25)
-![Shell](https://img.shields.io/static/v1?style=flat-square&label=Shell&labelColor=151311&color=d8c3ab&message=5.6%25)
-![Java](https://img.shields.io/static/v1?style=flat-square&label=Java&labelColor=151311&color=d8c3ab&message=4.8%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=JavaScript&labelColor=151311&color=d8c3ab&message=4.7%25)
-![Lua](https://img.shields.io/static/v1?style=flat-square&label=Lua&labelColor=151311&color=d8c3ab&message=3.9%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=Other&labelColor=151311&color=d8c3ab&message=7.8%25)
+![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=Jupyter%20Notebook&labelColor=151311&color=d8c3ab&message=59.6%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=TypeScript&labelColor=151311&color=d8c3ab&message=8.4%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=Python&labelColor=151311&color=d8c3ab&message=6%25)
+![Shell](https://img.shields.io/static/v1?style=flat-square&label=Shell&labelColor=151311&color=d8c3ab&message=5.4%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=Java&labelColor=151311&color=d8c3ab&message=4.6%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=JavaScript&labelColor=151311&color=d8c3ab&message=4.5%25)
+![Lua](https://img.shields.io/static/v1?style=flat-square&label=Lua&labelColor=151311&color=d8c3ab&message=3.8%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=Other&labelColor=151311&color=d8c3ab&message=7.4%25)
 
 ### My Recent Activity
 
