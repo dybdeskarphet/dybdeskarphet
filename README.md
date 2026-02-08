@@ -22,7 +22,7 @@ Since I joined GitHub **7** years ago, I’ve pushed **1976** commits, opened **
 <ul>
 <li><a href="https://github.com/rockerBOO/awesome-neovim/pull/2062">Add `dybdeskarphet/gruvbox-minimal.nvim`</a> in <a href="https://github.com/rockerBOO/awesome-neovim">rockerBOO/awesome-neovim</a></li>
 <li><a href="https://github.com/saghen/blink.cmp/pull/2148">docs(recipes): Fix mini.icons + lspkind recipe</a> in <a href="https://github.com/saghen/blink.cmp">saghen/blink.cmp</a></li>
-<li><a href="https://github.com/Vortriz/awesome-niri/pull/18">Adds niri-companion to "Tools"</a> in <a href="https://github.com/Vortriz/awesome-niri">Vortriz/awesome-niri</a></li>
+<li><a href="https://github.com/niri-wm/awesome-niri/pull/18">Adds niri-companion to "Tools"</a> in <a href="https://github.com/niri-wm/awesome-niri">niri-wm/awesome-niri</a></li>
 <li><a href="https://github.com/CyberTimon/RapidRAW/pull/291">docs(README): Expand the installation section and add AUR package link</a> in <a href="https://github.com/CyberTimon/RapidRAW">CyberTimon/RapidRAW</a></li>
 <li><a href="https://github.com/saghen/blink.cmp/pull/2121">docs(recipes): Add "mini.icons + lspkind" combination to recipes.md</a> in <a href="https://github.com/saghen/blink.cmp">saghen/blink.cmp</a></li>
 </ul>
