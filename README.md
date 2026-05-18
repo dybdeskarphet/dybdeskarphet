@@ -6,7 +6,7 @@ I'm **Arda**. I like working with backend systems, writing pretty much anything 
 
 Most of my projects fall into two camps: things that make my daily dev life or system smoother, and things that just sound cool (or end up a little overengineered). Since I’m still a uni student, all of this happens in my free time - which probably explains the chaos :)
 
-Since I joined GitHub **7** years ago, I’ve pushed **2181** commits, opened **28** issues, sent **40** pull requests, earned **362** stars across **39** projects, contributed to **10** repos.
+Since I joined GitHub **7** years ago, I’ve pushed **2181** commits, opened **28** issues, sent **41** pull requests, earned **362** stars across **39** projects, contributed to **10** repos.
 
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=TypeScript&labelColor=151311&color=%233178c6&message=30.1%25)
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=Java&labelColor=151311&color=%23b07219&message=14.9%25)
@@ -20,9 +20,9 @@ Since I joined GitHub **7** years ago, I’ve pushed **2181** commits, opened **
 ### My Recent Activity
 
 <ul>
+<li><a href="https://github.com/phrmendes/todotxt.nvim/pull/17">Add user-defined metadata sorting and keymapping logic</a> in <a href="https://github.com/phrmendes/todotxt.nvim">phrmendes/todotxt.nvim</a></li>
 <li><a href="https://github.com/rockerBOO/awesome-neovim/pull/2062">Add `dybdeskarphet/gruvbox-minimal.nvim`</a> in <a href="https://github.com/rockerBOO/awesome-neovim">rockerBOO/awesome-neovim</a></li>
 <li><a href="https://github.com/saghen/blink.cmp/pull/2148">docs(recipes): Fix mini.icons + lspkind recipe</a> in <a href="https://github.com/saghen/blink.cmp">saghen/blink.cmp</a></li>
 <li><a href="https://github.com/niri-wm/awesome-niri/pull/18">Adds niri-companion to "Tools"</a> in <a href="https://github.com/niri-wm/awesome-niri">niri-wm/awesome-niri</a></li>
 <li><a href="https://github.com/CyberTimon/RapidRAW/pull/291">docs(README): Expand the installation section and add AUR package link</a> in <a href="https://github.com/CyberTimon/RapidRAW">CyberTimon/RapidRAW</a></li>
-<li><a href="https://github.com/saghen/blink.cmp/pull/2121">docs(recipes): Add "mini.icons + lspkind" combination to recipes.md</a> in <a href="https://github.com/saghen/blink.cmp">saghen/blink.cmp</a></li>
 </ul>
