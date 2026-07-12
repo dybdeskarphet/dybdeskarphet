@@ -6,13 +6,13 @@ I'm **Arda**. I like working with backend systems, writing pretty much anything 
 
 Most of my projects fall into two camps: things that make my daily dev life or system smoother, and things that just sound cool (or end up a little overengineered). Since I’m still a uni student, all of this happens in my free time - which probably explains the chaos :)
 
-Since I joined GitHub **7** years ago, I’ve pushed **2320** commits, opened **31** issues, sent **43** pull requests, earned **367** stars across **41** projects, contributed to **10** repos.
+Since I joined GitHub **7** years ago, I’ve pushed **2323** commits, opened **31** issues, sent **43** pull requests, earned **367** stars across **41** projects, contributed to **10** repos.
 
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=TypeScript&labelColor=151311&color=%233178c6&message=29.1%25)
-![Java](https://img.shields.io/static/v1?style=flat-square&label=Java&labelColor=151311&color=%23b07219&message=14.4%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=TypeScript&labelColor=151311&color=%233178c6&message=29%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=Java&labelColor=151311&color=%23b07219&message=14.3%25)
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=Python&labelColor=151311&color=%233572A5&message=13.7%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=JavaScript&labelColor=151311&color=%23f1e05a&message=13.7%25)
-![Lua](https://img.shields.io/static/v1?style=flat-square&label=Lua&labelColor=151311&color=%23000080&message=8.4%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=JavaScript&labelColor=151311&color=%23f1e05a&message=13.6%25)
+![Lua](https://img.shields.io/static/v1?style=flat-square&label=Lua&labelColor=151311&color=%23000080&message=8.5%25)
 ![Rust](https://img.shields.io/static/v1?style=flat-square&label=Rust&labelColor=151311&color=%23dea584&message=7.9%25)
 ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=Kotlin&labelColor=151311&color=%23A97BFF&message=7.4%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=Other&labelColor=151311&color=%23ededed&message=5.1%25)
