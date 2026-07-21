@@ -6,16 +6,16 @@ I'm **Arda**. I like working with backend systems, writing pretty much anything 
 
 Most of my projects fall into two camps: things that make my daily dev life or system smoother, and things that just sound cool (or end up a little overengineered). Since I’m still a uni student, all of this happens in my free time - which probably explains the chaos :)
 
-Since I joined GitHub **7** years ago, I’ve pushed **2345** commits, opened **31** issues, sent **43** pull requests, earned **367** stars across **42** projects, contributed to **10** repos.
+Since I joined GitHub **7** years ago, I’ve pushed **2369** commits, opened **31** issues, sent **43** pull requests, earned **367** stars across **42** projects, contributed to **10** repos.
 
-![Python](https://img.shields.io/static/v1?style=flat-square&label=Python&labelColor=151311&color=%233572A5&message=42.3%25)
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=TypeScript&labelColor=151311&color=%233178c6&message=16.3%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=JavaScript&labelColor=151311&color=%23f1e05a&message=13%25)
-![Java](https://img.shields.io/static/v1?style=flat-square&label=Java&labelColor=151311&color=%23b07219&message=8%25)
-![Lua](https://img.shields.io/static/v1?style=flat-square&label=Lua&labelColor=151311&color=%23000080&message=4.8%25)
-![Rust](https://img.shields.io/static/v1?style=flat-square&label=Rust&labelColor=151311&color=%23dea584&message=4.4%25)
-![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=Kotlin&labelColor=151311&color=%23A97BFF&message=4.1%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=Other&labelColor=151311&color=%23ededed&message=6.6%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=TypeScript&labelColor=151311&color=%233178c6&message=26.2%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=Python&labelColor=151311&color=%233572A5&message=21.7%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=Java&labelColor=151311&color=%23b07219&message=13%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=JavaScript&labelColor=151311&color=%23f1e05a&message=12.3%25)
+![Lua](https://img.shields.io/static/v1?style=flat-square&label=Lua&labelColor=151311&color=%23000080&message=7.7%25)
+![Rust](https://img.shields.io/static/v1?style=flat-square&label=Rust&labelColor=151311&color=%23dea584&message=7.1%25)
+![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=Kotlin&labelColor=151311&color=%23A97BFF&message=6.7%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=Other&labelColor=151311&color=%23ededed&message=4.8%25)
 
 ### My Recent Activity
 
