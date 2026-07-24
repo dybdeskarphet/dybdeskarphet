@@ -6,7 +6,7 @@ I'm **Arda**. I like working with backend systems, writing pretty much anything 
 
 Most of my projects fall into two camps: things that make my daily dev life or system smoother, and things that just sound cool (or end up a little overengineered). Since I’m still a uni student, all of this happens in my free time - which probably explains the chaos :)
 
-Since I joined GitHub **7** years ago, I’ve pushed **2404** commits, opened **31** issues, sent **43** pull requests, earned **368** stars across **42** projects, contributed to **10** repos.
+Since I joined GitHub **7** years ago, I’ve pushed **2404** commits, opened **31** issues, sent **43** pull requests, earned **369** stars across **42** projects, contributed to **10** repos.
 
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=Python&labelColor=151311&color=%233572A5&message=25.4%25)
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=TypeScript&labelColor=151311&color=%233178c6&message=25%25)
