@@ -6,14 +6,14 @@ I'm **Arda**. I like working with backend systems, writing pretty much anything 
 
 Most of my projects fall into two camps: things that make my daily dev life or system smoother, and things that just sound cool (or end up a little overengineered). Since I’m still a uni student, all of this happens in my free time - which probably explains the chaos :)
 
-Since I joined GitHub **7** years ago, I’ve pushed **2663** commits, opened **31** issues, sent **43** pull requests, earned **369** stars across **43** projects, contributed to **10** repos.
+Since I joined GitHub **7** years ago, I’ve pushed **2672** commits, opened **31** issues, sent **43** pull requests, earned **369** stars across **43** projects, contributed to **10** repos.
 
-![Python](https://img.shields.io/static/v1?style=flat-square&label=Python&labelColor=151311&color=%233572A5&message=36.9%25)
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=TypeScript&labelColor=151311&color=%233178c6&message=36.2%25)
-![Java](https://img.shields.io/static/v1?style=flat-square&label=Java&labelColor=151311&color=%23b07219&message=6.2%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=TypeScript&labelColor=151311&color=%233178c6&message=36.7%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=Python&labelColor=151311&color=%233572A5&message=36.1%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=Java&labelColor=151311&color=%23b07219&message=6.3%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=JavaScript&labelColor=151311&color=%23f1e05a&message=6%25)
-![Lua](https://img.shields.io/static/v1?style=flat-square&label=Lua&labelColor=151311&color=%23000080&message=3.7%25)
-![Rust](https://img.shields.io/static/v1?style=flat-square&label=Rust&labelColor=151311&color=%23dea584&message=3.4%25)
+![Lua](https://img.shields.io/static/v1?style=flat-square&label=Lua&labelColor=151311&color=%23000080&message=3.8%25)
+![Rust](https://img.shields.io/static/v1?style=flat-square&label=Rust&labelColor=151311&color=%23dea584&message=3.5%25)
 ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=Kotlin&labelColor=151311&color=%23A97BFF&message=3.2%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=Other&labelColor=151311&color=%23ededed&message=3.9%25)
 
