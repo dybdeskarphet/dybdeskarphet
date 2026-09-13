@@ -6,7 +6,7 @@ I'm **Arda**. I like working with backend systems, writing pretty much anything 
 
 Most of my projects fall into two camps: things that make my daily dev life or system smoother, and things that just sound cool (or end up a little overengineered). Since I’m still a uni student, all of this happens in my free time - which probably explains the chaos :)
 
-Since I joined GitHub **8** years ago, I’ve pushed **2900** commits, opened **31** issues, sent **43** pull requests, earned **368** stars across **46** projects, contributed to **9** repos.
+Since I joined GitHub **8** years ago, I’ve pushed **2901** commits, opened **31** issues, sent **43** pull requests, earned **369** stars across **46** projects, contributed to **8** repos.
 
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=TypeScript&labelColor=151311&color=%233178c6&message=34.8%25)
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=Python&labelColor=151311&color=%233572A5&message=33%25)
@@ -15,7 +15,7 @@ Since I joined GitHub **8** years ago, I’ve pushed **2900** commits, opened **
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=JavaScript&labelColor=151311&color=%23f1e05a&message=4.8%25)
 ![Vue](https://img.shields.io/static/v1?style=flat-square&label=Vue&labelColor=151311&color=%2341b883&message=4.5%25)
 ![Rust](https://img.shields.io/static/v1?style=flat-square&label=Rust&labelColor=151311&color=%23dea584&message=3.6%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=Other&labelColor=151311&color=%23ededed&message=8.4%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=Other&labelColor=151311&color=%23ededed&message=8.5%25)
 
 ### My Recent Activity
 
