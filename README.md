@@ -6,16 +6,16 @@ I'm **Arda**. I like working with backend systems, writing pretty much anything 
 
 Most of my projects fall into two camps: things that make my daily dev life or system smoother, and things that just sound cool (or end up a little overengineered). Since I’m still a uni student, all of this happens in my free time - which probably explains the chaos :)
 
-Since I joined GitHub **8** years ago, I’ve pushed **3327** commits, opened **31** issues, sent **43** pull requests, earned **365** stars across **27** projects, contributed to **5** repos.
+Since I joined GitHub **8** years ago, I’ve pushed **3332** commits, opened **31** issues, sent **43** pull requests, earned **365** stars across **27** projects, contributed to **5** repos.
 
-![Python](https://img.shields.io/static/v1?style=flat-square&label=Python&labelColor=151311&color=%233572A5&message=23.3%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=HTML&labelColor=151311&color=%23e34c26&message=19.1%25)
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=TypeScript&labelColor=151311&color=%233178c6&message=16.5%25)
-![Lua](https://img.shields.io/static/v1?style=flat-square&label=Lua&labelColor=151311&color=%23000080&message=10.8%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=Python&labelColor=151311&color=%233572A5&message=23.1%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=HTML&labelColor=151311&color=%23e34c26&message=19%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=TypeScript&labelColor=151311&color=%233178c6&message=16.4%25)
+![Lua](https://img.shields.io/static/v1?style=flat-square&label=Lua&labelColor=151311&color=%23000080&message=11.3%25)
 ![Nix](https://img.shields.io/static/v1?style=flat-square&label=Nix&labelColor=151311&color=%237e7eff&message=8%25)
 ![Shell](https://img.shields.io/static/v1?style=flat-square&label=Shell&labelColor=151311&color=%2389e051&message=6.9%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=JavaScript&labelColor=151311&color=%23f1e05a&message=4.4%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=Other&labelColor=151311&color=%23ededed&message=10.6%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=Other&labelColor=151311&color=%23ededed&message=10.5%25)
 
 ### My Recent Activity
 
