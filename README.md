@@ -6,7 +6,7 @@ I'm **Arda**. I like working with backend systems, writing pretty much anything 
 
 Most of my projects fall into two camps: things that make my daily dev life or system smoother, and things that just sound cool (or end up a little overengineered). Since I’m still a uni student, all of this happens in my free time - which probably explains the chaos :)
 
-Since I joined GitHub **8** years ago, I’ve pushed **3347** commits, opened **31** issues, sent **43** pull requests, earned **365** stars across **27** projects, contributed to **5** repos.
+Since I joined GitHub **8** years ago, I’ve pushed **3349** commits, opened **31** issues, sent **44** pull requests, earned **365** stars across **27** projects, contributed to **5** repos.
 
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=Python&labelColor=151311&color=%233572A5&message=23.1%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=HTML&labelColor=151311&color=%23e34c26&message=19%25)
@@ -20,9 +20,9 @@ Since I joined GitHub **8** years ago, I’ve pushed **3347** commits, opened **
 ### My Recent Activity
 
 <ul>
+<li><a href="https://github.com/rockerBOO/awesome-neovim/pull/2605">Update `dybdeskarphet/gruvbox-minimal.nvim`</a> in <a href="https://github.com/rockerBOO/awesome-neovim">rockerBOO/awesome-neovim</a></li>
 <li><a href="https://github.com/phrmendes/todotxt.nvim/pull/23">fix(lsp): use the correct call for todotxt.move_done</a> in <a href="https://github.com/phrmendes/todotxt.nvim">phrmendes/todotxt.nvim</a></li>
 <li><a href="https://github.com/phrmendes/todotxt.nvim/pull/22">fix: Use `:write` when todo_buf is open</a> in <a href="https://github.com/phrmendes/todotxt.nvim">phrmendes/todotxt.nvim</a></li>
 <li><a href="https://github.com/phrmendes/todotxt.nvim/pull/17">Add user-defined metadata sorting and keymapping logic</a> in <a href="https://github.com/phrmendes/todotxt.nvim">phrmendes/todotxt.nvim</a></li>
 <li><a href="https://github.com/rockerBOO/awesome-neovim/pull/2062">Add `dybdeskarphet/gruvbox-minimal.nvim`</a> in <a href="https://github.com/rockerBOO/awesome-neovim">rockerBOO/awesome-neovim</a></li>
-<li><a href="https://github.com/saghen/blink.cmp/pull/2148">docs(recipes): Fix mini.icons + lspkind recipe</a> in <a href="https://github.com/saghen/blink.cmp">saghen/blink.cmp</a></li>
 </ul>
